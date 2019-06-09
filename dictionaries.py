@@ -1,3 +1,4 @@
+#simple search for shortcuts
 monthConversions = {
     "Jan": "January",
     "Feb": "February",
